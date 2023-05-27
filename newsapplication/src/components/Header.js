@@ -45,25 +45,25 @@ export default function Header() {
 
         <div className="nav-scroller py-1 mb-2">
           <nav className="nav d-flex justify-content-center">
-            <a className="p-2 link-primary" href="#">
+            <a className="p-2 link-primary nav-link" href="#">
               World
             </a>
-            <a className="p-2 link-primary" href="#">
+            <a className="p-2 link-primary nav-link" href="#">
               Technology
             </a>
-            <a className="p-2 link-primary" href="#">
+            <a className="p-2 link-primary nav-link" href="#">
               Business
             </a>
-            <a className="p-2 link-primary" href="#">
+            <a className="p-2 link-primary nav-link" href="#">
               Politics
             </a>
-            <a className="p-2 link-primary" href="#">
+            <a className="p-2 link-primary nav-link" href="#">
               Science
             </a>
-            <a className="p-2 link-primary" href="#">
+            <a className="p-2 link-primary nav-link" href="#">
               Health
             </a>
-            <a className="p-2 link-primary" href="#">
+            <a className="p-2 link-primary nav-link" href="#">
               Travel
             </a>
           </nav>
